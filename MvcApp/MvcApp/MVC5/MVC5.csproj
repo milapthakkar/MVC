@@ -1632,7 +1632,6 @@
     <Content Include="Content\admintheme\vendor\jquery\jquery.min.map" />
     <Content Include="Content\admintheme\vendor\jquery\jquery.slim.min.map" />
     <Content Include="Areas\Admin\Views\Shared\_TopNav.cshtml" />
-    <Content Include="Areas\Admin\Views\Shared\_LeftNav1.cshtml" />
     <Content Include="Areas\Admin\Views\Table\Index.cshtml" />
     <Content Include="Areas\Admin\Views\Chart\Index.cshtml" />
     <Content Include="Areas\Admin\Views\Shared\_LeftNav.cshtml" />
